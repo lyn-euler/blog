@@ -13,6 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+      
     - name: hugo-deploy
       # You may pin to the exact commit or the version.
       # uses: reuixiy/hugo-deploy@1185ce893b699b1809ec27bebcd8212a8127fefa
