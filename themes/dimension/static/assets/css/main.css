@@ -1552,15 +1552,15 @@ input, select, textarea {
 			
 		}
 
-		#main article img {
-			max-width: 100%;
-		}
+			#main article img {
+				max-width: 100%;
+			}
 
-		#main article table {
-			max-width: 100%;
-			table-layout:fixed;
-			word-break:break-all;
-		}
+			#main article table {
+				max-width: 100%;
+				table-layout:fixed;
+				word-break:break-all;
+			}
 		
 			#main article.active {
 				-moz-transform: translateY(0);
