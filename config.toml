@@ -1,0 +1,6 @@
+baseURL = "//lyn-euler.github.io"
+languageCode = "en-us"
+title = "右眼惺忪"
+theme = "dimension"
+relativeURLs = true
+uglyURLs = true
